@@ -4,8 +4,8 @@ I'm a 20-year-old AI student in my 3rd year at An-Najah University. I’ve been 
 
 ## 💡 Skills
 
-- **Web Development**: HTML, CSS, JavaScript, React, Express, Asp.net 
-- **Backend**: MongoDB, Oracle, Firebase, AWS Deployment
+- **Web Development**: HTML, CSS, JavaScript, React, Express.
+- **Database and Tools**: MongoDB, Oracle, Firebase, AWS Deployment
 - **Programming**: Python, C++, C, C#
 - **Other**: Problem-solving, team leadership, and project management
 
