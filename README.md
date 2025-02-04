@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Omar Khalili
 
-I'm a 20-year-old AI student in my 3rd year at An-Najah University. I’ve been programming for the past two years, and in that short time, I’ve developed a passion for building efficient, user-friendly software. I'm looking to grow both personally and professionally as I transition into a career in software engineering.
+I'm a 21-year-old AI student in my 3rd year at An-Najah University. I’ve been programming for the past two years, and in that short time, I’ve developed a passion for building efficient, user-friendly software. I'm looking to grow both personally and professionally as I transition into a career in software engineering.
 
 ## 💡 Skills
 
